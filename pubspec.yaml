@@ -1,0 +1,78 @@
+name: skrola
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  pdfx: ^2.9.2
+  share_plus: ^11.0.0
+  path_provider: ^2.1.5
+
+  # ✅ Core packages
+  firebase_core: ^4.0.0
+  cloud_firestore: ^6.0.0
+  shared_preferences: ^2.5.3
+  intl: ^0.19.0
+  url_launcher: ^6.3.2
+  flutter_math_fork: ^0.7.4
+  webview_flutter: ^4.13.0
+  flutter_launcher_icons: ^0.14.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/bg.png
+    - assets/notes/number_pattern.pdf
+    - assets/notes/functions.pdf
+    - assets/notes/trigonometry.pdf
+    - assets/notes/geometry.pdf
+    - assets/notes/analytical.pdf
+    - assets/notes/calculus.pdf
+    - assets/notes/finance.pdf
+    - assets/notes/statistics.pdf
+    - assets/notes/probability.pdf
+    - assets/app_logo.png
+    - assets/notes/analytical_geometry10.pdf
+    - assets/notes/functions10.pdf
+    - assets/notes/expression.pdf
+    - assets/notes/exponents_equations_inequalities.pdf
+    - assets/notes/trigonometry10.pdf
+    - assets/notes/polygons.pdf
+    - assets/notes/trig_functions.pdf
+    - assets/notes/probability10.pdf
+    - assets/notes/finance10.pdf
+    - assets/notes/measurements10.pdf
+    - assets/notes/number_patterns10.pdf
+    - assets/notes/statistics10.pdf
+    - assets/notes/exponents_surds.pdf
+    - assets/notes/equations11.pdf
+    - assets/notes/Trigonometry_grade11.pdf
+    - assets/notes/analytical_grade11.pdf
+    - assets/notes/geometry_grade11.pdf
+    - assets/notes/functions_grade11.pdf
+    - assets/notes/stats_grade11.pdf
+    - assets/notes/probability11.pdf
+    - assets/notes/finance11.pdf
+    - assets/notes/number_patterns_grade11.pdf
+    - assets/notes/trig_functions_grade11.pdf
+    - assets/notes/Trigonometry2D_grade11.pdf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_logo.png"
+

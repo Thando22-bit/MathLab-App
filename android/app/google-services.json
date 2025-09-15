@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690801611214",
+    "project_id": "certain-math-466020-a1",
+    "storage_bucket": "certain-math-466020-a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690801611214:android:34ddbd42d8a405bd5e9b9f",
+        "android_client_info": {
+          "package_name": "com.example.skrola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZxJJIWHVHFVkfgOMMRgFCjvh5mWJWbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
