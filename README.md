@@ -1,16 +1,27 @@
-# skrola
+# MathLab App
 
-A new Flutter project.
+An educational mobile app built for **Grade 10 to 12 learners**, providing study materials, past exam papers, and structured resources for Mathematics.  
+The goal of MathLab is to help learners prepare better for exams and improve their understanding of core math concepts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Mathematics content for **Grade 10, 11, and 12**
+- Study notes and worked examples
+- Past exam question papers with solutions
+- Easy-to-navigate interface for quick access
+- Offline access to materials
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- **Flutter (Dart)** for cross-platform mobile development  
+- **Firebase** for storage and content management  
+- **Responsive UI** design for mobile devices  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 About
+MathLab was developed to support learners in their academic journey by giving them access to reliable, organized, and exam-focused math resources.  
+The app is part of my portfolio of educational and digital solutions.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Author
+**Thando**  
+[GitHub Profile](https://github.com/Thando22-bit)
+
